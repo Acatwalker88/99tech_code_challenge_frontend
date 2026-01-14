@@ -24,3 +24,6 @@ Notes
 
 Live demo:
 99tech-code-challenge-frontend.vercel.app
+
+Screenshot
+
