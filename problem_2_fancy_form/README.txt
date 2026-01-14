@@ -21,3 +21,6 @@ Notes
 - Tokens with no price are automatically hidden.
 - Balances are mocked per token on first load and stored in memory.
 - This project uses Vite + React.
+
+Live demo:
+99tech-code-challenge-frontend.vercel.app
